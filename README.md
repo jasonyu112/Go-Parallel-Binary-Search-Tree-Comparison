@@ -6,3 +6,8 @@
 
 ### Hash Speedup Using Coarse Workload
 ![image](https://github.com/user-attachments/assets/d004ff4f-0eb5-49dc-9e10-e91a8253be40)
+
+### Comparison Speedup Using Coarse Workload
+![image](https://github.com/user-attachments/assets/c5278a58-4cd8-4d9a-8c12-bd50c79d52c1)
+
+More In-Depth Analysis:
