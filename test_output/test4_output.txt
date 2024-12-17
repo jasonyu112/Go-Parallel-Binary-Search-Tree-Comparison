@@ -1,0 +1,11 @@
+hashTime: 0.00003508
+hashGroupTime: 0.00003758
+690: 7 8 16 
+746: 10 12 14 
+846: 2 3 5 
+968: 0 1 4 9 11 13 18 19 
+compareTreeTime: 0.00001054
+group 0: 0 4 9 11 13 19 
+group 1: 3 5 
+group 2: 7 8 16 
+group 3: 10 12 
